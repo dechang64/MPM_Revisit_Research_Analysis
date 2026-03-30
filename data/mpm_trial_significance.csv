@@ -1,0 +1,8 @@
+Method,Delta_BalAcc,p_value,Significance
+2011 Revisit (ROS+RF),-0.2748,0.0092,**
+SMOTE + RF,-0.1449,0.0462,*
+Class-Balanced LR,0.039,0.028,*
+EasyEnsemble,0.0047,0.7953,n.s.
+Balanced RF,-0.0287,0.1061,n.s.
+RUSBoost,-0.2726,0.0144,*
+BSMOTE + RF,-0.1462,0.0133,*
